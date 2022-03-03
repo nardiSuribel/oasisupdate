@@ -1,0 +1,174 @@
+body{
+    margin: 0px;
+}
+.row {
+    flex-direction: row;
+  }
+nav{
+    width: 100%;
+    height: 60px;
+    background-color:rgba(0,0,0,.2);
+    display: flex;
+    position: fixed;
+    .div-w50{
+        width: 50%; 
+        display: inline;
+    }
+    .flexreverse{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    ul{
+        margin: 0;
+        list-style-type: none;
+        opacity: 1;
+        height: 60px;
+        display: flex;
+        width: 100%;
+        li{
+            text-align: center;
+            width: 100%;
+            display: inline;
+            font-size: 16px;
+            font-family: "Harabara";
+            text-transform: uppercase;
+            a{
+                color:white;
+                text-decoration: none;
+                line-height: 55px;
+            }
+
+        }
+        li:hover{
+            background-color: black;
+        }
+    }
+}
+
+
+#image1{
+    background-image: url("https://backend.oasishoteles.net/imagenes/eventos/dj-dannic-2020/galeria-show/01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    filter: grayscale(1);
+}
+.slider-home{
+    background-size: cover;
+    width: 100%;
+    filter:grayscale(1);
+    img{
+        width: 100%;
+    }
+}
+.footer{
+    background-color: rgba(0,0,0,.8);
+    width: 100%;
+    height: 280px;
+    top: 10px;
+}
+
+.display-flex{
+    display: flex;
+}
+ .col-1{
+     width: 33%;
+     height: 150px;
+     img{
+        height: 100px;
+        width: 147px;
+     }
+     ul{
+         font-size: 11px;
+         list-style-type: none;
+         li{
+            line-height: 25px;
+         }
+     }
+ }
+ 
+ .col-2{
+    width: 33%;
+    font-size: 12px;
+    height: 150px;
+    img{
+        margin-top: 30px;
+        width: 150px;
+    }
+    ul{
+        list-style-type: none;
+    }
+ }
+
+ .col-3{
+    width: 34%;
+    height: 150px;
+    text-align: end;
+    padding-right: 80px;
+    font-size: 12px;
+     ul{
+         list-style-type: none;
+         a{
+             color:white;
+             padding-right: 10px;
+         }
+     }
+ }
+
+ .w-50{
+     width: 50%;
+ }
+
+ .w-30{
+     width: 30%;
+ }
+
+ .w-70{
+     width: 70%;
+ }
+
+ .p-t-60{
+    padding-top: 60px;
+ }
+
+ .p-l-40{
+     padding-left: 40px;
+ }
+ .color-white{
+     color:white;
+ }
+
+ .custom-dots{
+     display: flex;
+	justify-content: center;
+	flex-direction: column;
+	position: absolute;
+	right: 10px;
+	top:50%;
+	transform: translateY(-50%);
+	z-index:500;
+    li{
+        display: block;
+		line-height: 0px;
+       .slick-active{
+            button{
+                background: #fff !important;
+				border:1px solid #fff;
+            }        
+        } 
+        button{
+            background: none;
+            border:1px solid #fff;
+            height: 13px;
+            width:13px;
+            border-radius: 10px;
+            font-size: 0px;
+            margin:7px;
+            cursor: pointer;
+        }	
+        
+			
+    }
+	
+				
+ }
