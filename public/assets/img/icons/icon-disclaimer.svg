@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="odu-rediseño-2019" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" stroke="#FFFFFF" stroke-width="2">
+            <ellipse id="Oval" filter="url(#filter-1)" cx="22.8884298" cy="22.8855422" rx="21.8884298" ry="21.8855422"></ellipse>
+            <path d="M25.2467556,9 L21.0648663,9 L22.1373133,26.0525605 C22.1373133,26.5813112 22.2541367,26.9504617 22.4677207,27.2015888 C22.6649694,27.4335093 22.8311317,27.5180723 23.0197628,27.5180723 C23.2254476,27.5180723 23.4188845,27.4254694 23.6435945,27.18603 C23.8940029,26.9192079 24.0677509,26.5062105 24.1396356,25.987526 L25.2467556,9 Z M23.176393,36.9879518 C24.2192867,36.9879518 24.8355457,36.8374342 24.9954375,36.6724055 C25.1655352,36.4968429 25.3140496,35.8645389 25.3140496,34.8119595 C25.3140496,33.7750204 25.1647916,33.1687366 24.9647714,32.9783917 C24.8199719,32.8239584 24.2135285,32.6746988 23.176393,32.6746988 C22.1236161,32.6746988 21.4911535,32.823213 21.3155339,32.9933229 C21.1505166,33.1531633 21,33.7692629 21,34.8119595 C21,35.860174 21.1517361,36.4860067 21.3268462,36.6610946 C21.501989,36.8362153 22.1279809,36.9879518 23.176393,36.9879518 Z" id="!" filter="url(#filter-2)"></path>
+        </g>
+    </g>
+</svg>
