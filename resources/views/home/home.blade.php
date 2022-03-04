@@ -30,6 +30,7 @@
                 <article class="">
                     <img src="assets/img/pasados-2018/REHAB - 10 MAR/964A4654.JPG" alt="">
                 </article>
+                <button class="bton-vermas"> Ver mas </button>
             </div>
         </section>
     </main>

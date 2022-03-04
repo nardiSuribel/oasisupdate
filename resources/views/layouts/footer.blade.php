@@ -1,66 +1,76 @@
 <div class="footer">
-    <div class="row display-flex p-t-60 p-l-40">
+    <div class="row display-flex p-t-50 p-l-40">
         <div class="col-1 display-flex color-white">
-            <div class="w-30">
+            <div class="w-26">
                 <img src="https://oasisdanceu.com/assets/img/logos/the-pyramid-logo.png" alt="">
             </div>
-            <div class="w-70">
-                <ul>
-                    <li>
-                        - The pyramid at grand cancun
-                    </li>
-                    <li>
-                        - Grand Oasis Cancun
-                    </li>
-                    <li>
-                        - Habitaciones
-                    </li>
-                    <li>
-                        - Restaurantes Y Bares
-                    </li>
-                    <li>
-                        - Entretenimiento
-                    </li>
-                    <li>
-                        - Fotos
-                    </li>
-                    <li>
-                        - Opiniones
-                    </li>
-                    <li>
-                        - Catálogo
-                    </li>
-                </ul>
+            <div class="w-70 display-flex">
+                <div class="col">
+                    <ul class="pointedborder">
+                        <li>
+                            - The Pyramid At Grand Cancun
+                        </li>
+                        <li>
+                            - Habitaciones
+                        </li>
+                        <li>
+                            - Restaurantes Y Bares
+                        </li>
+                        <li>
+                            - Entretenimiento
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li>
+                            - Fotos
+                        </li>
+                        <li>
+                            - Opiniones
+                        </li>
+                        <li>
+                            - Catálogo
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
         <div class="col-2 display-flex color-white">
-            <div class="w-30">
+            <div class="w-26">
                 <img src="https://oasisdanceu.com/assets/img/logos/goc-logo.png" alt="">
             </div>
-            <div class="w-70">
-                <ul>
-                    <li>
-                        - Grand Oasis Cancun
-                    </li>
-                    <li>
-                        - Habitaciones
-                    </li>
-                    <li>
-                        - Restaurantes Y Bares
-                    </li>
-                    <li>
-                        - Entretenimiento
-                    </li>
-                    <li>
-                        - Fotos
-                    </li>
-                    <li>
-                        - Opiniones
-                    </li>
-                    <li>
-                        - Catálogo
-                    </li>
-                </ul>
+            <div class="w-70 display-flex">
+                <div class="col">
+                    <ul class="pointedborder">
+                        <li>
+                            - Grand Oasis Cancun
+                        </li>
+                        <li>
+                            - Habitaciones
+                        </li>
+                        <li>
+                            - Restaurantes Y Bares
+                        </li>
+                        <li>
+                            - Entretenimiento
+                        </li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li>
+                            - Fotos
+                        </li>
+                        <li>
+                            - Opiniones
+                        </li>
+                        <li>
+                            - Catálogo
+                        </li>
+                    </ul>
+                </div>
+               
             </div>
         </div>
         <div class="col-3 color-white">
