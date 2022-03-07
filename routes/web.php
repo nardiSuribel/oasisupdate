@@ -1,5 +1,8 @@
 <?php
-
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
+use App\Http\Controllers\MainController;
+use Lararoutes\Lumen\CustomRoutes;
 /** @var \Laravel\Lumen\Routing\Router $router */
 
 /*
@@ -13,6 +16,8 @@
 |
 */
 
-$router->get('/', function () use ($router) {
-    return view('home.home');
-});
+// $router->get('/', function () use ($router) {
+//     return view('home.home');
+// });
+//Route::get('/home', [MainController::MainController, 'index']);
+$router->get('/home', 'MainController@index');
